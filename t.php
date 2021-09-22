@@ -5,4 +5,5 @@ var_dump($_POST);
 var_dump($_REQUEST);
 var_dump(time());
 var_dump(microtime());
-var_dump(file_get_contents('https://www.baidu.com'));
+//var_dump(file_get_contents('https://www.baidu.com'));
+var_dump(date('Y-m-d));
