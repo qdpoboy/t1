@@ -7,3 +7,4 @@ var_dump(time());
 var_dump(microtime());
 //var_dump(file_get_contents('https://www.baidu.com'));
 var_dump(date('Y-m-d');
+var_dump(array_values([1 => 'hello', 2 => 'world']));
