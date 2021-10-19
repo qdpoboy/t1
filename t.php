@@ -11,4 +11,4 @@ var_dump(array_values([1 => 'hello', 2 => 'world']));
 var_dump(array_keys([1 => 'hello', 2 => 'world']));
 var_dump(substr('hello world', 0, 5));
 var_dump(strstr('111@qq.com', '@'));
-//php8 match 构造函数
+//php8 match 构造函数 jit
